@@ -1,1 +1,2 @@
-# AS24
+Basic Python programs
+Basic HTML Projects
